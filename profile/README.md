@@ -1,5 +1,6 @@
-# Vavelin.dev
-Wawel Institute of Development 
+![Vavelin.dev Logo](./images/vavelin.png)
 
-![VavelinDev Logo](profile/images/vavelin-logo.dev-horyzontalne.png)
+# Witamy w Vavelin.dev
+Tworzymy Przyszłość Razem: Wartości, Społeczność i Wiedza\
+**Dołącz do Naszej Społeczności Technologicznej!**
 
