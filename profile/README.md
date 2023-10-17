@@ -1,7 +1,7 @@
 ![Vavelin.dev Logo](profile/images/vavelin.png)
 
 # 🌱 Connect and Grow with Us! 
-🏰Cracow  👥Community 🤝Collaboration 👨‍💻Code ☕Coffee \
+🏰Cracow 👥Community 🤝Collaboration 👨‍💻Code ☕Coffee \
 \
 **Join Our Tech Community Now!**
 
