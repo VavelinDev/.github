@@ -11,6 +11,6 @@
 ➡️[Discord](https://discord.gg/TBTxKvCuJr)
 
 **Besides** \
-👍 Like it\
-🌠 Star it\
-📥 Take it
+👍 Follow it \
+🌠 Star our Projects \
+😊 Enjoy it
