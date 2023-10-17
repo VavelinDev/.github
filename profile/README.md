@@ -7,7 +7,8 @@ Code 👨‍💻 / Community 👥 / Collaboration 🤝 /  Cracow 🏰 / Coffee �
 
 ➡️[Home](https://home.vavelin.dev/) \
 ➡️[LinkedIn](https://www.linkedin.com/company/vavelin-dev/) \
-➡️[Twitter](https://twitter.com/VavelinDev)
+➡️[Twitter](https://twitter.com/VavelinDev) \
+➡️[Discord](https://discord.gg/TBTxKvCuJr)
 
 **Besides** \
 👍 Like it\
