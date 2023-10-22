@@ -8,7 +8,7 @@
 ➡️[Home](https://home.vavelin.dev/) \
 ➡️[LinkedIn](https://www.linkedin.com/company/vavelin-dev/) \
 ➡️[Twitter](https://twitter.com/VavelinDev) \
-➡️[Discord](https://discord.gg/w3AAtRCE5v)
+➡️[Discord](https://discord.gg/mce9TJpgmn)
 
 **Besides** \
 👍 Follow it \
