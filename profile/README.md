@@ -1,8 +1,9 @@
 ![Vavelin.dev Logo](profile/images/vavelin.png)
 
 # 🌱 Connect and Grow with Us! 
-🏰P 👥Community 🤝Collaboration 👨‍💻Code ☕Coffee \
-\
+🏰 Vavelin.dev ~🌱Connect and Grow with Us!  ~ 👨‍💻 Polish Software Development Scene and Community ~ 👥Community 🤝Collaboration 👨‍💻Code ☕Coffee
+
+
 **Join Our Tech Community Now!**
 
 ➡️[Home](https://home.vavelin.dev/) \
